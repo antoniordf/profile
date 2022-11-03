@@ -51,7 +51,6 @@ h2 {
 .card {
   padding: 10px;
   background-color: rgb(208, 208, 208);
-  width: 500px;
   height: 250px;
   margin: 10px;
   border-radius: 5px;
@@ -61,6 +60,7 @@ h2 {
 
 .row {
   display: flex;
+  justify-content: space-evenly
 }
 
 .card img {
